@@ -1,4 +1,4 @@
 # cute
 this my first repository
 <br>
-autor- avantika deshmukh
+autor- avantika (apna college)
